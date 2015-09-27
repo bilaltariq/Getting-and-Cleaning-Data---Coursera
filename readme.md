@@ -12,4 +12,6 @@ Then using the rbind function both the test and the training data are joined.
 
 The name of the variables were same for both test and training sets of data.
 
-At the end of the code, calculating is done.
+At the end of the code, calculation is done.
+
+All the steps are described in the analysis code.
